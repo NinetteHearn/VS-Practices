@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "D2": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
